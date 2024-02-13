@@ -1,5 +1,6 @@
 枫（周杰伦/Jay Chou）
 ======
+![alt text](https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Jaychou_fantasy.jpg/220px-Jaychou_fantasy.jpg)
  * __乌云在我们心里搁下一块阴影
 我聆听沉寂已久的心情
 清晰透明
@@ -39,7 +40,7 @@
 雪花已铺满了地
 深怕窗外枫叶已结成冰__.
 
-### Maple
+###  <ins>Maple</ins>
   * _The dark cloud places a piece of shadow in our hearts
 I listen respectfully to my mood, which has already been quiet for a long time
 Clear and transparent
